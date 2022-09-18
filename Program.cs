@@ -54,7 +54,7 @@ namespace Saloon
                     {
                         countClient++;
 
-                        difference = i - j;
+                        difference = i - j;    
                     }
 
                 if (impatience[i] < countClient)
